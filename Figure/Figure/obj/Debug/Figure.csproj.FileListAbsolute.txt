@@ -1,0 +1,9 @@
+C:\Users\Aleks\source\repos\Figure\Figure\bin\Debug\Figure.exe.config
+C:\Users\Aleks\source\repos\Figure\Figure\bin\Debug\Figure.exe
+C:\Users\Aleks\source\repos\Figure\Figure\bin\Debug\Figure.pdb
+C:\Users\Aleks\source\repos\Figure\Figure\obj\Debug\Figure.csprojAssemblyReference.cache
+C:\Users\Aleks\source\repos\Figure\Figure\obj\Debug\Figure.Form1.resources
+C:\Users\Aleks\source\repos\Figure\Figure\obj\Debug\Figure.Properties.Resources.resources
+C:\Users\Aleks\source\repos\Figure\Figure\obj\Debug\Figure.csproj.GenerateResource.cache
+C:\Users\Aleks\source\repos\Figure\Figure\obj\Debug\Figure.exe
+C:\Users\Aleks\source\repos\Figure\Figure\obj\Debug\Figure.pdb
