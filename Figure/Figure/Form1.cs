@@ -38,7 +38,7 @@ namespace Figure
                 Square.Y = e.Y - SquareY3;
                 pictureBox1.Invalidate();
             }
-            else if ((label4.Location.X < Square.X + Square.Width) && (label4.Location.X > Square.X))
+            if ((label4.Location.X < Square.X + Square.Width) && (label4.Location.X > Square.X))
             {
                 if ((label4.Location.Y < Square.Y + Square.Height) && (label4.Location.Y > Square.Y))
                 {
